@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234743640696",
+    "firebase_url": "https://loginraja-8a1a7.firebaseio.com",
+    "project_id": "loginraja-8a1a7",
+    "storage_bucket": "loginraja-8a1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234743640696:android:4d4d3bf2ccfb2ab797738d",
+        "android_client_info": {
+          "package_name": "com.example.loginraja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234743640696-8quau8bb13hgde29nlpkskrlgg0nr3vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginraja",
+            "certificate_hash": "49d57a59f8ec558f2756f0e7fa841ff07b05d84d"
+          }
+        },
+        {
+          "client_id": "234743640696-to4dadpia13op35ov0401ij6cjog7gmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsMJDpfv-6I8OOrYJEk4Isi-t2HQHG8wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234743640696-to4dadpia13op35ov0401ij6cjog7gmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
